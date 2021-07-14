@@ -1,3 +1,3 @@
 # Django Exercise #
 
-Cloned youtube corse project.
+Cloned youtube course project.
